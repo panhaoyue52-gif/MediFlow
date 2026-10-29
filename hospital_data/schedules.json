@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "doctor_id": 1,
+        "schedule_date": "2026-11-09",
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "appointment_limit": 20,
+        "is_deleted": 0
+    },
+    {
+        "id": 2,
+        "doctor_id": 2,
+        "schedule_date": "2026-11-09",
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "appointment_limit": 30,
+        "is_deleted": 0
+    },
+    {
+        "id": 3,
+        "doctor_id": 3,
+        "schedule_date": "2026-11-09",
+        "start_time": "14:00",
+        "end_time": "17:00",
+        "appointment_limit": 20,
+        "is_deleted": 0
+    },
+    {
+        "id": 4,
+        "doctor_id": 4,
+        "schedule_date": "2026-11-09",
+        "start_time": "14:00",
+        "end_time": "17:00",
+        "appointment_limit": 30,
+        "is_deleted": 0
+    },
+    {
+        "id": 5,
+        "doctor_id": 5,
+        "schedule_date": "2026-11-10",
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "appointment_limit": 20,
+        "is_deleted": 0
+    },
+    {
+        "id": 6,
+        "doctor_id": 6,
+        "schedule_date": "2026-11-10",
+        "start_time": "09:00",
+        "end_time": "12:00",
+        "appointment_limit": 30,
+        "is_deleted": 0
+    },
+    {
+        "id": 7,
+        "doctor_id": 7,
+        "schedule_date": "2026-11-10",
+        "start_time": "14:00",
+        "end_time": "17:00",
+        "appointment_limit": 20,
+        "is_deleted": 0
+    },
+    {
+        "id": 8,
+        "doctor_id": 8,
+        "schedule_date": "2026-11-10",
+        "start_time": "14:00",
+        "end_time": "17:00",
+        "appointment_limit": 30,
+        "is_deleted": 0
+    }
+]

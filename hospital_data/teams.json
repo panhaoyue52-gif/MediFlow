@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiology Care Team",
+        "doctor_ids": [1, 2]
+    },
+    {
+        "id": 2,
+        "name": "Respiratory Care Team",
+        "doctor_ids": [3, 4]
+    },
+    {
+        "id": 3,
+        "name": "Orthopaedics Care Team",
+        "doctor_ids": [5, 6]
+    },
+    {
+        "id": 4,
+        "name": "General Medicine Care Team",
+        "doctor_ids": [7, 8]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "General Medicine",
+        "parent_id": 0,
+        "building": "Outpatient Building",
+        "floor": "Level 1",
+        "reception": "Desk O-1R",
+        "room": "O-106"
+    },
+    {
+        "id": 2,
+        "name": "Cardiology",
+        "parent_id": 1,
+        "building": "Outpatient Building",
+        "floor": "Level 3",
+        "reception": "Desk O-3R",
+        "room": "O-312"
+    },
+    {
+        "id": 3,
+        "name": "Respiratory Medicine",
+        "parent_id": 1,
+        "building": "Outpatient Building",
+        "floor": "Level 2",
+        "reception": "Desk O-2R",
+        "room": "O-208"
+    },
+    {
+        "id": 4,
+        "name": "Surgery",
+        "parent_id": 0,
+        "building": "Outpatient Building",
+        "floor": "Level 4",
+        "reception": "Desk O-4R",
+        "room": "O-401"
+    },
+    {
+        "id": 5,
+        "name": "Orthopaedics",
+        "parent_id": 4,
+        "building": "Outpatient Building",
+        "floor": "Level 4",
+        "reception": "Desk O-4R",
+        "room": "O-415"
+    }
+]

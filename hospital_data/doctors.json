@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Dr Wang",
+        "title": "Senior Consultant",
+        "department_id": 2,
+        "team_id": 1,
+        "fee": 100
+    },
+    {
+        "id": 2,
+        "name": "Dr Li",
+        "title": "Physician",
+        "department_id": 2,
+        "team_id": 1,
+        "fee": 30
+    },
+    {
+        "id": 3,
+        "name": "Dr Zhang",
+        "title": "Senior Consultant",
+        "department_id": 3,
+        "team_id": 2,
+        "fee": 100
+    },
+    {
+        "id": 4,
+        "name": "Dr Chen",
+        "title": "Physician",
+        "department_id": 3,
+        "team_id": 2,
+        "fee": 30
+    },
+    {
+        "id": 5,
+        "name": "Dr Liu",
+        "title": "Senior Consultant",
+        "department_id": 5,
+        "team_id": 3,
+        "fee": 100
+    },
+    {
+        "id": 6,
+        "name": "Dr Zhao",
+        "title": "Physician",
+        "department_id": 5,
+        "team_id": 3,
+        "fee": 30
+    },
+    {
+        "id": 7,
+        "name": "Dr Sun",
+        "title": "Senior Consultant",
+        "department_id": 1,
+        "team_id": 4,
+        "fee": 80
+    },
+    {
+        "id": 8,
+        "name": "Dr Wu",
+        "title": "Physician",
+        "department_id": 1,
+        "team_id": 4,
+        "fee": 25
+    }
+]
